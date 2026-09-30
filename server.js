@@ -3,7 +3,7 @@ const app = express()
 
 
 app.get('/get',(req,res)=>{
-    res.send('Hello from API');
+    res.send('Hello form areeb');
 })
 
 app.listen(3000)
